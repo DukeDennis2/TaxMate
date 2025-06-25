@@ -25,3 +25,12 @@ The initial version of TaxMate was designed to:
   
 ```js
 taxAmount = income * stateTaxRate;
+
+creating new repository
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DukeDennis2/TaxMate.git
+git push -u origin main
